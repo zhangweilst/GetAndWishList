@@ -1,0 +1,9 @@
+Git
+VTK
+boost
+C++
+TinyXML(C++ XML parser)
+UML图 (用Astah绘制UML图，包括类图，状态图，序列图，用例图等)
+GitLab网站部署
+字符集，一个古老而又永恒的问题
+UNICODE, UTF-8, UCS-2, UCS-4
