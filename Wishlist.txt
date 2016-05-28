@@ -1,0 +1,25 @@
+高通实习
+C/C++语言开发	
+嵌入式OS，如嵌入式Linux		
+802.11协议或者BT协议	
+
+Nvidia
+Deep understanding on the software testing		
+CUDA C/C++ and OpenACC		
+Mathematical fundamentals, including linear algebra and numerical methods		
+Programming experience on DirextX, OpenGL		
+OpenCL Driver		
+熟悉Linux		
+
+无他APP（安卓/iOS开发）（安卓/iOS开发钱途大大的）
+Android SDK
+Android系统框架
+OpenCV OpenGL U3D
+Object-C语言基础		
+iOS SDK	
+
+Intel实习
+Python		
+
+Standalone
+前端开发
