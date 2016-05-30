@@ -23,3 +23,5 @@ Python
 
 Standalone
 Ç°¶Ë¿ª·¢
+
+OpenStack
